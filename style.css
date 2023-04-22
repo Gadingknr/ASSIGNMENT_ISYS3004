@@ -3,7 +3,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: src(photo2.jpg);
+    background-image: url(photo2.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -15,7 +15,7 @@ body{
     justify-content: center;
     height: 20vh;
     width: 50%;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(255, 255, 255, 0.8);
     font-size: 48px;
     color: white;
     text-transform: uppercase;
