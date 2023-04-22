@@ -9,7 +9,7 @@ body{
     background-repeat: no-repeat;
 }
 
-#content{
+#titlebackground{
     display: flex;
     align-items: center;
     justify-content: center;
