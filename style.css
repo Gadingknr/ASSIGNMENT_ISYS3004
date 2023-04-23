@@ -30,7 +30,8 @@ body {
 .content {
   background-image: url('path/to/image.jpg');
   padding: 10px;
-  height: 400px; 
+  height: 400px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
 
 /* Style the footer */
 .footer {
