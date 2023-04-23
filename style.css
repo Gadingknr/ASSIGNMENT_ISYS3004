@@ -22,7 +22,7 @@ body {
 
 /* Change color on hover */
 .topnav a:hover {
-  background-image: url('photo1.jpg');
+  background-image: url('path/to/image.jpg');
   color: black;
 }
 
