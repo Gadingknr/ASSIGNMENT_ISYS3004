@@ -22,16 +22,15 @@ body {
 
 /* Change color on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-image: url('photo1.jpg');
   color: black;
 }
 
-/* Style the content */
+/* main background */
 .content {
   background-color: #ddd;
   padding: 10px;
-  height: 200px; /* Should be removed. Only for demonstration */
-}
+  height: 400px; 
 
 /* Style the footer */
 .footer {
