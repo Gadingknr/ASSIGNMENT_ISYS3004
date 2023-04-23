@@ -22,13 +22,13 @@ body {
 
 /* Change color on hover */
 .topnav a:hover {
-  background-image: url('path/to/image.jpg');
+  background-color: #a7a7a7;
   color: black;
 }
 
 /* main background */
 .content {
-  background-color: #ddd;
+  background-image: url('path/to/image.jpg');
   padding: 10px;
   height: 400px; 
 
