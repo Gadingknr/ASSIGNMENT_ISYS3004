@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>CSS Template</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
+{
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -49,29 +42,3 @@ body {
   background-color: #f1f1f1;
   padding: 2%;
 }
-</style>
-</head>
-<body>
-
-<nav class="topnav">
-  <a href="#">Home</a>
-  <a href="#">Project</a>
-  <a href="#"></a>
-</nav>
-
-<header class="content">
-  <h2>Gading Kinarayana</h2>
-  <p>Welcome to my portofolio</p>
-</header>
-<main>
-	<p>put something</p>
-</main>
-
-<footer class="footer">
-  <p>footer add something</p>
-</footer>
-
-</body>
-</html>
-
-
